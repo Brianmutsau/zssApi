@@ -1,0 +1,12 @@
+# Ignore build output
+bin/
+obj/
+.vs/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore secrets
+appsettings.json
+appsettings.*.json
