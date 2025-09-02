@@ -45,6 +45,7 @@ dotnet user-secrets set "PurchaseApi:Token" "<TOKEN>"
 
 dotnet ef database update
 
-4 dotnet run
+4 Run the application
+dotnet run
 
 
